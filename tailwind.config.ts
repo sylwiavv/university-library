@@ -1,10 +1,5 @@
 import type { Config } from "tailwindcss";
-module.exports = {
-	plugins: {
-	  tailwindcss: {},
-	  autoprefixer: {},
-	},
-  }
+
 
 export default {
   darkMode: ["class"],
